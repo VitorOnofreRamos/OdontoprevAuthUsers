@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "682e634cbe596b12180b9834"
+  },
+  "Username": "João Silva",
+  "Email": "joao.silva@example.com",
+  "CPF": "123.456.789-00",
+  "PasswordHash": {
+    "$binary": {
+      "base64": "7TYdnYSLaj3mD95TGnEQ7k/TNxCql80lLkzs0z0Ke3kIjsl7oQm6Uhw8Z+3x3N8AWTIIosyPGv+Eq57ar8o0eg==",
+      "subType": "00"
+    }
+  },
+  "PasswordSalt": {
+    "$binary": {
+      "base64": "POy+eIpIuhhBvuJ++LRzD2Py6vyhK5NExtTibTylDJ2t3n5hCqjKAtNBC6m0XOpiohGphpsNJ2KAVHJqEJ4N8QWT7unyKLYBOZU7fWxg0EQV3nYezsRd6fbjqkOW69FrFVEd3pKXyQFLoSRl13Ku9UBF5uZHAssp1Hzz2rDxD2Y=",
+      "subType": "00"
+    }
+  },
+  "Phone": "(11) 98765-4321",
+  "Role": "Admin",
+  "CreatedAt": {
+    "$date": "2025-05-21T23:35:40.205Z"
+  },
+  "LastLogin": {
+    "$date": "2025-05-21T23:41:19.153Z"
+  },
+  "Active": true
+},
+{
+  "_id": {
+    "$oid": "682e6380be596b12180b9835"
+  },
+  "Username": "Maria Oliveira",
+  "Email": "maria.oliveira@example.com",
+  "CPF": "234.567.890-11",
+  "PasswordHash": {
+    "$binary": {
+      "base64": "/GuC7mz0Xz5EMhX+E4gbGq8xKnYf2FEAX/u4AF0Ev6bYIk01seHgbyeOusVsq9UPkcihtgQz+4RJBuO9q5QstA==",
+      "subType": "00"
+    }
+  },
+  "PasswordSalt": {
+    "$binary": {
+      "base64": "ZXtCex0is3kSDu3dU8dQ2ETpMqmOEnQ6T4gHtM18O0pQZVSIcSgidrJze8eAn0dzwVJZe8Q0rSKO0sKbbfM52mflldSKiSF7NwtNTJKmiBEJSVusy3xtKJd6fpT7BquoKTgrRn+w0CZZigW5fgK6vZmZ0187UcIiJ3tI0PoyEgU=",
+      "subType": "00"
+    }
+  },
+  "Phone": "(21) 98765-1234",
+  "Role": "User",
+  "CreatedAt": {
+    "$date": "2025-05-21T23:36:32.756Z"
+  },
+  "LastLogin": null,
+  "Active": true
+},
+{
+  "_id": {
+    "$oid": "682e63a7be596b12180b9836"
+  },
+  "Username": "Pedro Santos",
+  "Email": "pedro.santos@example.com",
+  "CPF": "345.678.901-21",
+  "PasswordHash": {
+    "$binary": {
+      "base64": "2faZKsAjU666Gp4fBt/ncQz77WXh9SurQo10NIEssLbZQQCN5Sr+YgB9p21ojKblxx8gB/WJ8S7e/wEAoLcpgw==",
+      "subType": "00"
+    }
+  },
+  "PasswordSalt": {
+    "$binary": {
+      "base64": "DuabKOslUAQ0TgZxzrQ2KZMVLkCL1f/ij3nfTMJJoGmTpv0T0Cun6wJFUtQ+Q3r7MhTdipuIsq32Mzg+GcQMjDfMtphD3Xjs9+/zJeGbliw5JyhSweUXwUlPz36U0k8SVwy8Aiulh2jnWLyg3RdStzYLXvNFWcRSDJFVZBjV5vw=",
+      "subType": "00"
+    }
+  },
+  "Phone": "(31) 98765-2345",
+  "Role": "User",
+  "CreatedAt": {
+    "$date": "2025-05-21T23:37:11.035Z"
+  },
+  "LastLogin": null,
+  "Active": true
+},
+{
+  "_id": {
+    "$oid": "682e63f7be596b12180b9837"
+  },
+  "Username": "Ana Costa",
+  "Email": "ana.costa@example.com",
+  "CPF": "456.789.012-33",
+  "PasswordHash": {
+    "$binary": {
+      "base64": "TPBKBByWbqOA1uEngyexbSXafFW5YUCE7CW5pbtUmZifypSmFUlt4iHam9OrlYgW388a+fp82xq/I/ELbmR3WQ==",
+      "subType": "00"
+    }
+  },
+  "PasswordSalt": {
+    "$binary": {
+      "base64": "NKNnH1ViuGDz65qpvvMihQTxa9EwIbWnN5vlP+fm2TkqTw0zlTXtAYfKH0dE/bx58bxEk/Un9BaN5grwqVmxROH02NOEP1znm8GbKrvZbmm9H3rNjr5vSfj28J8Z0Z7ulrn2E9vUR9MPj1q6bElvqAh5XPdc+WcG+6vAfu8rhLw=",
+      "subType": "00"
+    }
+  },
+  "Phone": "(41) 98765-3456",
+  "Role": "User",
+  "CreatedAt": {
+    "$date": "2025-05-21T23:38:31.280Z"
+  },
+  "LastLogin": null,
+  "Active": true
+},
+{
+  "_id": {
+    "$oid": "682e640dbe596b12180b9838"
+  },
+  "Username": "Lucas Pereira",
+  "Email": "lucas.pereira@example.com",
+  "CPF": "567.890.123-44",
+  "PasswordHash": {
+    "$binary": {
+      "base64": "nHmlljn5n+d1GJfq6efa3jufzhannz/H+hlHbKJDPfOseYAGBcFI7P92aEI9yumNAN86X1JygGCiUWPpVll0bA==",
+      "subType": "00"
+    }
+  },
+  "PasswordSalt": {
+    "$binary": {
+      "base64": "sHlaMyCGJLkjZ+0g2J81ejkzb+n1Cq0tfR1eUehP7P0SgMCgsJU5sC6lWtUSjaAMtwOmp7cYK2JyQBHOLZCHcdxdwu8XVcCPp27AoFea/1Xnv1HJ6pzO2dHKlIvgS35cGo9TfGmCvJ2CAF3irDmhFQVXn9oXKkORn6ztUlTMMNw=",
+      "subType": "00"
+    }
+  },
+  "Phone": "(51) 98765-4567",
+  "Role": "User",
+  "CreatedAt": {
+    "$date": "2025-05-21T23:38:53.957Z"
+  },
+  "LastLogin": null,
+  "Active": true
+},
+{
+  "_id": {
+    "$oid": "682e6425be596b12180b9839"
+  },
+  "Username": "Laura Rocha",
+  "Email": "laura.rocha@example.com",
+  "CPF": "678.901.234-55",
+  "PasswordHash": {
+    "$binary": {
+      "base64": "vJl1mRVZqZFzmaQwLKEm5CFPazb3EZ2ZP5/xKc2v1HJtgpTAJuSbK5d9WuEdulSZGSgwyeYgINwIWR0nSZfEAg==",
+      "subType": "00"
+    }
+  },
+  "PasswordSalt": {
+    "$binary": {
+      "base64": "cgmH5jrBGPHOl6mSCEu/fyg2UMp+HAmeTS20aAIDbbnLB6Qy95whqAuNq/G4dP2jiKh4WOIeYEwETZBZaUeZAnm8Mf2hNNjtxIbT9aFwaXyaONPNP0PEBIcjUojLeiD8LILUegWu647cFtdi2kyTNmxpSCnTINH7ZZhFkcqXim4=",
+      "subType": "00"
+    }
+  },
+  "Phone": "(61) 98765-5678",
+  "Role": "User",
+  "CreatedAt": {
+    "$date": "2025-05-21T23:39:17.622Z"
+  },
+  "LastLogin": null,
+  "Active": true
+},
+{
+  "_id": {
+    "$oid": "682e643bbe596b12180b983a"
+  },
+  "Username": "Rafael Almeida",
+  "Email": "rafael.almeida@example.com",
+  "CPF": "789.012.345-66",
+  "PasswordHash": {
+    "$binary": {
+      "base64": "VXE/l4NoKDEEeuOQlMVItss/vaP/LXEYMDnRcxaQc9iPztq0pjDN1pVn2CcjFcEQ1usZSc45xKiIyk+XP6JRGA==",
+      "subType": "00"
+    }
+  },
+  "PasswordSalt": {
+    "$binary": {
+      "base64": "VEHL49GgufMqvqhKMzG/Y+pjH8jTBPEje7FyT1cywDTZxLiVWBprfF3wX5oT9axnd0zczOOhJIUlfgJiH9xwFZSS6F5m0g9sYsXtAODvK56ggFNGC9mhvX6wCYbVwnWyL63OdaqTcRIzpqqt+YLMQDxBYcWfd+fKP7OofSwbfFk=",
+      "subType": "00"
+    }
+  },
+  "Phone": "(71) 98765-6789",
+  "Role": "User",
+  "CreatedAt": {
+    "$date": "2025-05-21T23:39:39.476Z"
+  },
+  "LastLogin": null,
+  "Active": true
+},
+{
+  "_id": {
+    "$oid": "682e644ebe596b12180b983b"
+  },
+  "Username": "Camila Lima",
+  "Email": "camila.lima@example.com",
+  "CPF": "890.123.456-77",
+  "PasswordHash": {
+    "$binary": {
+      "base64": "Oto3m8Om3KqtHcIQ0suJ+ZEgbPpb7cV06shyD8TfpGkC8Q9dZXrpNjbY2a0IH5YNkhzYFmOj8zaXx7Dhm5Xefg==",
+      "subType": "00"
+    }
+  },
+  "PasswordSalt": {
+    "$binary": {
+      "base64": "qqApmxKeDfHrSmldg1/MaPGOqTRhei5TEhAEGBLoxhOr8aImHJLvTBdwsTTMxiBpKDKgr3nWqqFGEtYB66aNEATI7T9x9Xza7HdNyRLxuXeJjhAGkG9J6IbuKsLdINxEx1XkR33FjwlQOFWbd2qSsRvZZnfvm64TjrPcLW5GqXo=",
+      "subType": "00"
+    }
+  },
+  "Phone": "(81) 98765-7890",
+  "Role": "User",
+  "CreatedAt": {
+    "$date": "2025-05-21T23:39:58.779Z"
+  },
+  "LastLogin": null,
+  "Active": true
+},
+{
+  "_id": {
+    "$oid": "682e6463be596b12180b983c"
+  },
+  "Username": "Gustavo Ferreira",
+  "Email": "gustavo.ferreira@example.com",
+  "CPF": "901.234.567-88",
+  "PasswordHash": {
+    "$binary": {
+      "base64": "tLKvRvzUtnF60S4jcbBmTNVPD8G4cQKjlY7rpbZ5fYLVW9UEFeX6ooKiOyBL3jQe22mmR3FVf+4C/v04T5F2ag==",
+      "subType": "00"
+    }
+  },
+  "PasswordSalt": {
+    "$binary": {
+      "base64": "8g/0nVsMNL15aMNZJifjGbLnM/m0cNIyQiz2BUQ7/816NhiyxBJTaz1NCH20CIiJCTWWDEa9Sum0fiqFuoSnijgRxtO7k5pfPiwgAW1cEqpVocXoWl8I02vPqxEJbdGx4P42KQ9gSYczqaarwrx4aqWJFpDUAZHxIM48b7511JI=",
+      "subType": "00"
+    }
+  },
+  "Phone": "(91) 98765-8901",
+  "Role": "User",
+  "CreatedAt": {
+    "$date": "2025-05-21T23:40:19.374Z"
+  },
+  "LastLogin": null,
+  "Active": true
+},
+{
+  "_id": {
+    "$oid": "682e6478be596b12180b983d"
+  },
+  "Username": "Juliana Martins",
+  "Email": "juliana.martins@example.com",
+  "CPF": "012.345.678-99",
+  "PasswordHash": {
+    "$binary": {
+      "base64": "mWzINLLbGy7Oef5MvUK4lrjUuOgCmZiH8t/ab6EGoLzlwDUpQ89EPvA8mQXa7PtGtsieAqRFwpsNLyMnB4GCog==",
+      "subType": "00"
+    }
+  },
+  "PasswordSalt": {
+    "$binary": {
+      "base64": "fGqzT/oelJxm8iXVwu4Pz/n00JYNH6O/U1wE2mvkwQGhmJVdYH9MbHK8ShaBdH4mfRTOzXywvFgMAMZ94luMLazXyvTYL02/4RJj9hDi3qxUBv0rmgt1z70/TNw1iTx6a7UkFjHu5TPTq4X9Cw0b3zt56pS187yny/l0s9ZtYXw=",
+      "subType": "00"
+    }
+  },
+  "Phone": "(11) 98765-9012",
+  "Role": "User",
+  "CreatedAt": {
+    "$date": "2025-05-21T23:40:40.384Z"
+  },
+  "LastLogin": null,
+  "Active": true
+}]
